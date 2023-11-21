@@ -14,7 +14,7 @@
         <dependency>
             <groupId>me.gv7.woodpecker</groupId>
             <artifactId>woodpecker-sdk</artifactId>
-            <version>0.1.0.beta4</version>
+            <version>0.3.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/me.gv7.woodpecker/woodpecker-tools -->
